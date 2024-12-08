@@ -22,11 +22,7 @@ canvas {
   touch-action: none;
 }
 
-<<<<<<< HEAD
 .screen-max-width {
-=======
-.scrim-max-width {
->>>>>>> 33d10255bdae5c2a831a840e5432cb4bdd817e55
   margin-inline-start: auto;
   margin-inline-end: auto;
   position: relative;
