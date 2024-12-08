@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import gsap from 'gsap';
 import { useGSAP } from '@gsap/react';
 import { heroVideo, smallHeroVideo } from '../utils';
@@ -47,6 +48,13 @@ const Hero = () => {
         <p className="font-normal text-xl">From $199/month or $999</p>
       </div>
     </section>
+=======
+import React from 'react'
+
+const Hero = () => {
+  return (
+    <div>Hero</div>
+>>>>>>> 33d10255bdae5c2a831a840e5432cb4bdd817e55
   )
 }
 

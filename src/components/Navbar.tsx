@@ -1,4 +1,5 @@
 import React from 'react'
+<<<<<<< HEAD
 import { appleImg, bagImg, searchImg } from '../utils'
 import {navLists} from '../constants'
 
@@ -20,6 +21,12 @@ const Navbar = () => {
             </div>
         </nav>
     </header>
+=======
+
+const Navbar = () => {
+  return (
+    <div>Navbar</div>
+>>>>>>> 33d10255bdae5c2a831a840e5432cb4bdd817e55
   )
 }
 
