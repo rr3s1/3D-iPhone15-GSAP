@@ -141,6 +141,12 @@ const VideoCarousel = () => {
 
     const handleLoadedMetaData = (i, e) => setLoadedData((pre) => [...pre, e]);
 
+    // @ts-ignore
+    // @ts-ignore
+    // @ts-ignore
+    // @ts-ignore
+    // @ts-ignore
+    // @ts-ignore
     return (
         <>
             <div className="flex items-center">
