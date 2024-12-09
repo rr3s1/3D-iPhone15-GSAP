@@ -8,7 +8,7 @@ import * as THREE from 'three';
 import { Canvas } from "@react-three/fiber";
 import { View } from "@react-three/drei";
 
-import { animateWithGsapTimeline } from "../utils/animations";
+
 
 
 const Model = () => {
