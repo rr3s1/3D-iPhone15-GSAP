@@ -3,6 +3,7 @@ import * as THREE from 'three'
 import Lights from './Lights';
 import IPhone from './IPhone';
 import { Suspense } from "react";
+import Loader from "./Loader";
 
 const ModelView = ({ index, groupRef, gsapType, controlRef, setRotationState, size, item }) => {
     return (
@@ -11,7 +12,7 @@ const ModelView = ({ index, groupRef, gsapType, controlRef, setRotationState, si
             id={gsapType}
             className={`w-full h-full absolute ${index === 2 ? 'right-[-100%]' : ''}`}
         >
-            <ambientLight intensity={0.3} />
+            <ambientLight intensity={4} />
             <PerspectiveCamera makeDefault position={[0, 0, 4]} />
             <Lights />
             <OrbitControls
@@ -26,7 +27,7 @@ const ModelView = ({ index, groupRef, gsapType, controlRef, setRotationState, si
             <group ref={groupRef} name={`${index === 1} ? 'small' : 'large'`} position={[0, 0 ,0]}>
                 <Suspense fallback={
                     <Html center>
-                        <div style={{ color: 'white' }}>Loading...</div>
+                        <Loader />
                     </Html>
                 }>
                     <IPhone
