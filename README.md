@@ -14,7 +14,7 @@
 
 <h3 align="center">Iphone 15 Website</h3>
 <div align="center">
-     In this project, I am following along with Adrian Hajdin from JavaScript Mastery (YouTube) to build a Storage and File Sharing Platform. 
+     In this project, I am following along with Adrian Hajdin from JavaScript Mastery (YouTube) to build a clone of Apple's iPhone 15 Pro website. 
 
 https://www.youtube.com/watch?v=kRQbRAJ4-Fs&t=8121s&ab_channel=JavaScriptMastery
 
