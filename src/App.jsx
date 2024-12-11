@@ -3,6 +3,7 @@ import Hero from "./components/Hero"
 import Highlights from "./components/Higlights"
 import VideoCarousel from "./components/VideoCarousel";
 import Model from "./components/Model";
+import Features from "./components/Features";
 
 const  App = () => {
   
@@ -13,6 +14,7 @@ const  App = () => {
         <Highlights/>
         <VideoCarousel />
         <Model />
+        <Features />
     </main>
   )
 }
