@@ -80,7 +80,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/aessary/3D-iPhone15-GSAP.git
+git clone https://github.com/r3ss1/3D-iPhone15-GSAP.git
 cd 3D-iPhone15-GSAP
 ```
 
