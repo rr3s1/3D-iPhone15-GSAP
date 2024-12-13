@@ -4,6 +4,7 @@ import Highlights from "./components/Higlights"
 import VideoCarousel from "./components/VideoCarousel";
 import Model from "./components/Model";
 import Features from "./components/Features";
+import HowItWorks from "./components/HowItWorks";
 
 const  App = () => {
   
@@ -15,6 +16,7 @@ const  App = () => {
         <VideoCarousel />
         <Model />
         <Features />
+        <HowItWorks />
     </main>
   )
 }
