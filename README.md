@@ -13,6 +13,39 @@
   </div>
 
 <h3 align="center">Iphone 15 Website</h3>
+
+
+  <br />
+
+   <img src="https://github.com/user-attachments/assets/d2804379-3420-4925-b028-40d9d675905a" >
+  
+  <br /> 
+
+
+<br />
+   <img src="https://github.com/user-attachments/assets/7f7dc2c9-197f-415e-aab9-f1c98f632d0c" >
+ 
+  <br /> 
+
+ 
+ <br />
+   <img src="https://github.com/user-attachments/assets/2569b905-0652-42ff-94cd-89697b04bac9" >
+  
+  <br /> 
+
+ 
+  <br /> 
+   <img src="https://github.com/user-attachments/assets/aacbde79-92be-4fb9-98c0-70bb6b856c27" >
+ 
+  <br /> 
+    <br /> 
+   <img src="https://github.com/user-attachments/assets/91c34c7b-e161-4d70-a34b-539a6ae6ee4b" >
+ 
+
+
+
+
+
 <div align="center">
      In this project, I am following along with Adrian Hajdin from JavaScript Mastery (YouTube) to build a clone of Apple's iPhone 15 Pro website. 
 
